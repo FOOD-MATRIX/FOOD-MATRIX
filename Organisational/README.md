@@ -13,11 +13,15 @@ I am attempting to track the `.xlsx` files here - obviously they are binary file
 Need to submit:
 
 - [ ] Group timesheet file
-  `TimeSheet_Group3200_04_Current.xlsx` is the current group timesheet - each week the Team Manager will fill this in, and *then* make a copy of it for that week (e.g. named `TimeSheet_Group3200_04_Wk2.xlsx`
-  Move the old group timesheet into [OldTimeSheets](~/Organisational/OldTimeSheets)
+
+`TimeSheet_Group3200_04_Current.xlsx` is the current group timesheet - each week the Team Manager will fill this in, and *then* make a copy of it for that week (e.g. named `TimeSheet_Group3200_04_Wk2.xlsx`
+
+Move the old group timesheet into [OldTimeSheets](~/Organisational/OldTimeSheets)
 
 - [ ] Zip/gzip file of booked-hours spreadsheets `Booked_Group3200_04_WkY.zip` or `Booked_Group3200_04_WkY.tar` containing the booked hours spreadsheets (see `/Organisational/Members/*/Booked_Hours_*.xlsx`)
-  **Make sure that you are collecting the current weeks version for each team member - possibly get them to be sent to the Discord server when people have done theirs for the week**
+
+**Make sure that you are collecting the current weeks version for each team member - possibly get them to be sent to the Discord server when people have done theirs for the week**
 
 - [ ] Convert the meeting minute(s) for that week into a PDF
-  Use [this](https://www.vertopal.com/en/convert/md-gfm-to-pdf) to do the conversion, remember to name the files correctly (`Minutes_Group3200_04_WkY.pdf`. If there was more than one meeting in a week, append a letter after the week, e.g. `Minutes_Group3200_04_Wk1a.pdf`)
+
+Use [this](https://www.vertopal.com/en/convert/md-gfm-to-pdf) to do the conversion, remember to name the files correctly (`Minutes_Group3200_04_WkY.pdf`. If there was more than one meeting in a week, append a letter after the week, e.g. `Minutes_Group3200_04_Wk1a.pdf`)
