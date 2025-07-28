@@ -1,6 +1,7 @@
 * Week 2
 ** DONE Email Wise about client contact
-*** Waiting for a response from him
+*** Waiting for a response from him - got it back, looks like they work at UWA
+*** DONE Send email to clients asking for meeting/more information
 ** TODO Complete github repository
 *** DONE Create the repo
 *** DONE Add structure and base info to repo
