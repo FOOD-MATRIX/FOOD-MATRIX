@@ -7,7 +7,7 @@
 *** DONE Add structure and base info to repo
 *** TODO add everyone to it
 - [X] Mandy
-- [ ] Mia
+- [X] Mia
 - [ ] Quan
 - [ ] Truong
 - [X] Jashan
