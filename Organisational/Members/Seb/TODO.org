@@ -10,7 +10,7 @@
 - [ ] Mia
 - [ ] Quan
 - [ ] Truong
-- [ ] Jashan
+- [X] Jashan
 
 *** TODO Setup branch rules ect
 ** TODO Book meeting rooms once we know the time of our on going meetings
