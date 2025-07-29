@@ -1,4 +1,7 @@
 # Meeting 1
+### Times
+Started: 12:10
+Ended: 12:55
 
 **Present:**
     - Truong
@@ -29,6 +32,8 @@
 #### monday morning for client meeting
 **Seb to email client back and organise it**
 
-
+## Action Items
+**Jashan to book meeting room this time**
+**Seb to email client back and organise it**
 **Seb to give mandy ownership of discord server**
 **Mandy to make discord server channels**
