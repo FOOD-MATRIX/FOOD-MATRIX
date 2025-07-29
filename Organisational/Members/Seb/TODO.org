@@ -7,12 +7,12 @@
 *** DONE Add structure and base info to repo
 *** TODO add everyone to it
 - [X] Mandy
-- [ ] Mia
+- [X] Mia
 - [ ] Quan
 - [ ] Truong
 - [X] Jashan
-
-*** TODO Setup branch rules ect
+*** DONE Setup branch rules ect
+- Done basic branch protection, will add actions once we know what we are doing I think
 ** TODO Book meeting rooms once we know the time of our on going meetings
 *** NOTE: See if you can keep meeting in the same place and do make it an ongoing booking
 ** DONE Book meeting room
