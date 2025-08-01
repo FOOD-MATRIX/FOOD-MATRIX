@@ -1,0 +1,10 @@
+/* CSS file for generating the PDF's from the markdown minutes */
+    table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+
+th, td {
+  padding: 6px;
+  /* text-align: left; */
+}
