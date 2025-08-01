@@ -3,15 +3,17 @@
 Started: 12:10
 Ended: 12:55
 
-**Present:**
-    - Truong
-    - Mandy
-    - Seb
-    - Quan
-**Absent:**
-    - Mia
-**Late:**
-    - Jashan
+#### Present:
+- Truong
+- Mandy
+- Seb
+- Quan
+
+#### Absent:
+- Mia
+
+#### Late:
+- Jashan
 
 ### Meet and greet
     - done, met everyone
@@ -25,19 +27,26 @@ Ended: 12:55
        - seems good
     - Seb is elected team manager for the first sprint
 *Amendment*
+
 ### Timesheets
     - group agreed to have timesheets preferably handed in by 12:00 Friday, no later than 6:00 Friday
+
 *End Amendment*
 
 ### Next meeting
 - 9oclock thursday ongoing
+
 **Jashan to book meeting room this time**
 
-#### monday morning for client meeting
+### Monday morning for client meeting
+
 **Seb to email client back and organise it**
 
 ## Action Items
 **Jashan to book meeting room this time**
+
 **Seb to email client back and organise it**
+
 **Seb to give mandy ownership of discord server**
+
 **Mandy to make discord server channels**

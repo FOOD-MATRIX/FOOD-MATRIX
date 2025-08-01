@@ -16,7 +16,7 @@ Need to submit:
 
 `TimeSheet_Group3200_04_Current.xlsx` is the current group timesheet - each week the Team Manager will fill this in, and *then* make a copy of it for that week (e.g. named `TimeSheet_Group3200_04_Wk2.xlsx`
 
-Move the old group timesheet into [OldTimeSheets](~/Organisational/OldTimeSheets)
+See below ~~Move the old group timesheet into [OldTimeSheets](~/Organisational/OldTimeSheets)~~
 
 - [ ] Zip/gzip file of booked-hours spreadsheets `Booked_Group3200_04_WkY.zip` or `Booked_Group3200_04_WkY.tar` containing the booked hours spreadsheets (see `/Organisational/Members/*/Booked_Hours_*.xlsx`)
 
@@ -24,4 +24,14 @@ Move the old group timesheet into [OldTimeSheets](~/Organisational/OldTimeSheets
 
 - [ ] Convert the meeting minute(s) for that week into a PDF
 
-Use [this](https://www.vertopal.com/en/convert/md-gfm-to-pdf) to do the conversion, remember to name the files correctly (`Minutes_Group3200_04_WkY.pdf`. If there was more than one meeting in a week, append a letter after the week, e.g. `Minutes_Group3200_04_Wk1a.pdf`)
+Use
+
+``` sh
+pandoc <inputname>.md  --pdf-engine=weasyprint --css=.print.css -o <outputname>.pdf
+```
+
+`.print.css` is located in `/Organisational/.print.css`
+
+Remember to name the files correctly (`Minutes_Group3200_04_WkY.pdf`. If there was more than one meeting in a week, append a letter after the week, e.g. `Minutes_Group3200_04_Wk1a.pdf`)
+
+- [ ] once uploaded a copy of the files make a folder in `OldSubmissions` and place the files there
