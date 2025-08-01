@@ -24,6 +24,10 @@ Ended: 12:55
     - Mandy suggests rotating each sprint
        - seems good
     - Seb is elected team manager for the first sprint
+*Amendment*
+### Timesheets
+    - group agreed to have timesheets preferably handed in by 12:00 Friday, no later than 6:00 Friday
+*End Amendment*
 
 ### Next meeting
 - 9oclock thursday ongoing
